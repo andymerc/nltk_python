@@ -2,8 +2,4 @@
 Sentiment Analysis on Tweets using Python and the NLTK library
 
 
-Purpose: 
-
-1. Use NLTK Python Library to find the semtiment of tweets that are about certain stocks. 
-2. Once I have found the sentiment, I want to find a correlation between stock prices and sentiments
-
+Purpose: Conduct an analysis to determine if there is a correlation between the sentiment expressed in tweets about companies and their respective stock prices
